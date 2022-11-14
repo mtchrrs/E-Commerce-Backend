@@ -37,6 +37,8 @@
   To use this application, please follow the following process carefully.
 
   Please watch the below video to see how the database in action!
+  
+  https://app.castify.com/view/babda95d-fc83-4e0c-869f-916e185e81c8
 
 
   ## Contributions
